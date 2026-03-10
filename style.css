@@ -1,0 +1,13 @@
+.menu{
+    display:none;
+    list-style:none;
+}
+
+.menu.active{
+    display:block;
+}
+
+#menu-btn{
+    font-size:20px;
+    cursor:pointer;
+}
